@@ -35,6 +35,7 @@ Iphone and it's charger is the most sold item. So, it would be a good idea to ha
 
 **Most Sold Item & Reason**
 ![most_sold](https://github.com/hasanmehedi2309/sales_data_analysis/assets/98232012/d5489580-5599-4311-89d6-bbbfde9b92e7)
+
 It can be seen that AAA & AA batteries are the most sold products. Let's find out the reason.
 
 
